@@ -1,0 +1,48 @@
+/* Default variant for general subsections */
+.subsection-heading {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  color: var(--text-primary);
+}
+
+/* Skills variant */
+.subsection-heading--skills {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  color: var(--text-primary);
+}
+
+/* Education variant */
+.subsection-heading--education {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: var(--text-primary);
+}
+
+/* Contact variant */
+.subsection-heading--contact {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+}
+
+/* Portfolio card variant */
+.subsection-heading--portfolio {
+  font-size: 1.3rem;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+/* Achievement card variant */
+.subsection-heading--achievement {
+  font-size: 1.1rem;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+/* Timeline variant */
+.subsection-heading--timeline {
+  font-size: 1.5rem;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}

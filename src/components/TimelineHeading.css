@@ -1,0 +1,20 @@
+/* Default variant for timeline */
+.timeline-heading {
+  font-size: 1.2rem;
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+
+/* Education card variant */
+.timeline-heading--education {
+  font-size: 1.5rem;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+/* Timeline header variant */
+.timeline-heading--timeline-header {
+  font-size: 1.2rem;
+  color: var(--text-secondary);
+  font-weight: 600;
+}
